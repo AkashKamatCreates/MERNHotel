@@ -1,7 +1,7 @@
 # HotelBooker
 - Developed a full-stack Hotel room Booking platform using React, Node.js, Express, and MongoDB where users can
 browse different hotel room cards. User can choose rooms based on custom filters like star rating of hotel, types of hotel (villa, apartment, hotel).
-• The user can then book a room in a hotel of their choice. The checkin and checkout dates selection from user generates appropriate calculated bill.
+- The user can then book a room in a hotel of their choice. The checkin and checkout dates selection from user generates appropriate calculated bill.
 
 ### Result: 
 
@@ -13,3 +13,14 @@ Filtered out hotels according to user needs.
 
 Final booking of room and payments.
 ![3](https://github.com/AkashKamatCreates/MERNHotel/assets/100783004/505f1173-af09-40af-adda-69ab2229cad6)
+
+### Tech Stack: 
+Frontend: 
+- React
+- TailwindCSS
+Backend:
+- Node
+- Express
+- MongoDB
+- cors
+- dotenv
